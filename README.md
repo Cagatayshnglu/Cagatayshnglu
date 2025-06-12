@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ubuy.com.tr%2Fen%2Fproduct%2F169W6YCG6-supercell-clash-royale-electro-wizard-figure&psig=AOvVaw1V2DFDfrgGukS1sr7OgFh1&ust=1749814523280000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiBraDl640DFQAAAAAdAAAAABAE)
+[![MasterHead](https://theriagames.com/wp-content/uploads/2025/02/996c6-17160325963886-1920-1024x576.webp)
 
 <h1 align="center">Hi 👋, I'm Çağatay Şahinoğlu</h1>
 - 📫 How to reach me **cagataytab3@gmail.com**
