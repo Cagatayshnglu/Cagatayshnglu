@@ -16,3 +16,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagatayshnglu&show_icons=true&locale=en" alt="cagatayshnglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagatayshnglu&" alt="cagatayshnglu" /></p>
+
+
+
+
+![snake gif](https://github.com/Cagatayshnglu/Cagatayshnglu/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+![snake gif](https://github.com/Cagatayshnglu/Cagatayshnglu/blob/output/github-contribution-grid-snake.gif)
